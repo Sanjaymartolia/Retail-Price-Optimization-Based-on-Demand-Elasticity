@@ -23,3 +23,5 @@ Columns: Date, Year, Holiday, Weekend, School Break, Temperature, Outdoor
 
 ## Application of Machine Learning for Pricing Optimization in Python Project
 Primarily, this project focuses on optimizing the prices of various items available in a burger cafe. The solution of this pricing optimization in Python project can be easily used by experts of different industries like medical, hospitality, insurance, etc. For example, an analyst can recommend changes to the prices of various services offered by a hotel depending on the previous residents’ feedback.
+
+## Detail Python Code
