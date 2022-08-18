@@ -1,1 +1,2 @@
 # Retail-Price-Optimization-Based-on-Demand-Elasticity
+Pricing a product is a crucial aspect of any business. A lot of thought process is put into it. There are different strategies to estimate prices for different kinds of products. There are products whose sales are pretty sensitive to their costs, and as such, a slight change in their price can lead to a noticeable difference in their sales. At the same time, there are also products whose sales are not much affected by their worth - these tend to be luxury items or necessities (like certain medicines). 
